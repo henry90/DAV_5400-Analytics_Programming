@@ -1,26 +1,26 @@
 [
     {
-      "title": "Understanding Unix/Linux Programming",
-      "isbn": "0-13-008396-8",
-      "author": "Bruce Molay",
-      "author_2": "",
-      "publisher": "Pearson Education",
-      "website": "https://www.pearson.com/store/p/understanding-unix-linux-programming-a-guide-to-theory-and-practice/P100000999357/9780130083968"
+      "Title": "Understanding Unix/Linux Programming",
+      "ISBN": "0-13-008396-8",
+      "Author": "Bruce Molay",
+      "Author_2": "",
+      "Publisher": "Pearson Education",
+      "Website": "https://www.pearson.com/store/p/understanding-unix-linux-programming-a-guide-to-theory-and-practice/P100000999357/9780130083968"
     },
     {
-      "title": "Understanding Operating Systems",
-      "isbn": "1-285-09655-X",
-      "author": "Ann Mciver Mchoes",
-      "author_2": "Ida M. Flynn",
-      "publisher": "Cengage Learning",
-      "website": "https://www.cengage.com"
+      "Title": "Understanding Operating Systems",
+      "ISBN": "1-285-09655-X",
+      "Author": "Ann Mciver Mchoes",
+      "Author_2": "Ida M. Flynn",
+      "Publisher": "Cengage Learning",
+      "Website": "https://www.cengage.com"
     },
     {
-      "title": "Programming The World Wide Web",
-      "isbn": "978-0-13-377598-3",
-      "author": "Robert W. Sebesta",
-      "author_2": "",
-      "publisher": "Pearson Education",
-      "website": "https://www.pearson.com/us/higher-education.html"
+      "Title": "Programming The World Wide Web",
+      "ISBN": "978-0-13-377598-3",
+      "Author": "Robert W. Sebesta",
+      "Author_2": "",
+      "Publisher": "Pearson Education",
+      "Website": "https://www.pearson.com/us/higher-education.html"
     }
 ]
