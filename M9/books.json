@@ -1,5 +1,4 @@
-{
-  "books": [
+[
     {
       "title": "Understanding Unix/Linux Programming",
       "isbn": "0-13-008396-8",
@@ -24,5 +23,4 @@
       "publisher": "Pearson Education",
       "website": "https://www.pearson.com/us/higher-education.html"
     }
-  ]
-}
+]
